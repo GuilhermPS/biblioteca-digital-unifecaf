@@ -1,11 +1,15 @@
 # Biblioteca Digital UniFECAF
 
-Projeto acadêmico da disciplina Design Web: uma interface moderna, responsiva e acessível para a biblioteca digital da UniFECAF.
+Projeto da disciplina Design Web.
 
 **Aluno:** Guilherme Pereira da Silva  
 **RA:** 142006
 
-## Estrutura
+## Objetivo
+
+Desenvolver a primeira interface da Biblioteca Digital UniFECAF utilizando HTML e CSS, com layout responsivo para computador e smartphone.
+
+## Arquivos
 
 ```text
 biblioteca-unifecaf/
@@ -19,20 +23,5 @@ biblioteca-unifecaf/
 
 ## Como abrir
 
-Abra `index.html` em qualquer navegador moderno. Não há instalação nem dependências: o projeto utiliza somente HTML e CSS.
-
-## Recursos implementados
-
-- navegação semântica e link para pular ao conteúdo;
-- busca visual do acervo;
-- categorias, destaques e serviços;
-- layout responsivo para desktop, tablet e smartphone;
-- foco visível, bom contraste e suporte a redução de movimento;
-- imagem local, sem dependência de banco de imagens externo.
-
-## Publicação
-
-O projeto é compatível com GitHub Pages, Netlify e hospedagens estáticas equivalentes.
-
-[Acessar demonstração publicada](https://biblioteca-digital-unifecaf.silvaiagratis.chatgpt.site/)
+Abra o arquivo `index.html` em um navegador.
 
